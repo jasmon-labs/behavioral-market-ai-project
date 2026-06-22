@@ -1,0 +1,11 @@
+Headline,Sentiment_Score,Sentiment_Label
+Markets rally as inflation cools,0.0,Neutral
+Investors panic amid recession fears,0.0,Neutral
+NIFTY surges after strong earnings,0.43333333333333335,Positive
+Banking stocks decline sharply,-0.125,Negative
+Global markets remain stable,0.0,Neutral
+Heavy selling pressure in IT sector,-0.2,Negative
+Investors optimistic about RBI policy,0.0,Neutral
+Market crashes due to geopolitical tensions,-0.125,Negative
+Positive economic growth boosts sentiment,0.21363636363636362,Positive
+High volatility worries retail investors,0.16,Positive

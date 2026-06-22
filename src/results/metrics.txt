@@ -1,0 +1,35 @@
+Accuracy: 0.4655
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+        Bullish       0.81      0.90      0.86        73
+High Volatility       0.36      0.31      0.34       161
+          Panic       0.26      0.34      0.29       125
+         Stable       0.55      0.50      0.53       236
+
+       accuracy                           0.47       595
+      macro avg       0.50      0.51      0.50       595
+   weighted avg       0.47      0.47      0.47       595
+
+Confusion Matrix:
+[[ 66   1   2   4]
+ [  5  50  56  50]
+ [  6  33  42  44]
+ [  4  53  60 119]]
+
+Feature Importance:
+        Feature  Importance
+  Volatility_20    0.461903
+Volatility_Lag1    0.058943
+       Drawdown    0.049926
+         Return    0.047205
+      Return_5D    0.047198
+       Momentum    0.044250
+       MA_Ratio    0.043751
+            RSI    0.043287
+  Volume_Change    0.042741
+    Return_Lag2    0.041508
+Sentiment_Score    0.041313
+    Return_Lag1    0.040791
+   Volatility_5    0.037184

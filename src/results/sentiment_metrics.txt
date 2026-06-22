@@ -1,0 +1,4 @@
+MSE: 0.037906
+R2 Score: -2.322095
+
+Sentiment score prediction uses TextBlob polarity as the target.
